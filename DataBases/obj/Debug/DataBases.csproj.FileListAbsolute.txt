@@ -1,0 +1,11 @@
+C:\Users\Александр\source\repos\DataBases\DataBases\bin\Debug\DataBases.exe.config
+C:\Users\Александр\source\repos\DataBases\DataBases\bin\Debug\DataBases.exe
+C:\Users\Александр\source\repos\DataBases\DataBases\bin\Debug\DataBases.pdb
+C:\Users\Александр\source\repos\DataBases\DataBases\obj\Debug\DataBases.csproj.AssemblyReference.cache
+C:\Users\Александр\source\repos\DataBases\DataBases\obj\Debug\DataBases.csproj.SuggestedBindingRedirects.cache
+C:\Users\Александр\source\repos\DataBases\DataBases\obj\Debug\DataBases.Form1.resources
+C:\Users\Александр\source\repos\DataBases\DataBases\obj\Debug\DataBases.Properties.Resources.resources
+C:\Users\Александр\source\repos\DataBases\DataBases\obj\Debug\DataBases.csproj.GenerateResource.cache
+C:\Users\Александр\source\repos\DataBases\DataBases\obj\Debug\DataBases.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\DataBases\DataBases\obj\Debug\DataBases.exe
+C:\Users\Александр\source\repos\DataBases\DataBases\obj\Debug\DataBases.pdb
